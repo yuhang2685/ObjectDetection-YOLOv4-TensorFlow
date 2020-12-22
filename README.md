@@ -39,16 +39,7 @@ unzip variables-all.zip
 ```
 
 ## Detect objects in images or videos
-- You can use command line flag '--image' to specify the input image, and '--output' to specify the output.
-```bash
-# Object detection in images
-python detectimage.py --image InputPath --output OutputPath
-
-# Object detection in videos
-python detectvideo.py --video InputPath --output OutputPath
-
-```
-- For example:
+<img src="https://github.com/yuhang2685/Pretrained-Simple-YOLOv4-TF/blob/main/data/kite.jpg" width="35%"><img src="https://github.com/yuhang2685/Pretrained-Simple-YOLOv4-TF/blob/main/result.png" width="35%">
 
 ```bash
 # Object detection in images
@@ -59,9 +50,9 @@ python detectvideo.py --video ./data/road.mp4 --output result.avi
 
 ```
 ### TODO
-* [ ] Supply the demo for running in cloud (Colab)
-* [ ] Add results for illustration
-* [ ] Supply the code map
+* [ ]  Supply the demo for running in cloud (Colab)
+* [ ]  Add results for illustration
+* [ ]  Supply the code map
 
 
 ## References
