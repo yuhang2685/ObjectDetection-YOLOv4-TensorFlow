@@ -18,10 +18,6 @@ __C.size                      = 416
 __C.output_format             = 'XVID'
 # path to weights file
 __C.weights                   = './yolov4-416'
-# path to input video
-__C.video                     = './data/road.mp4'
-# path to output video
-__C.output                    = './results.avi'
 
 #==========================================================
 # YOLO options
