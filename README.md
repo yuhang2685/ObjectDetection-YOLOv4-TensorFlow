@@ -2,6 +2,12 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
+## Introduction
+
+YOLOv4 Tensorflow implementation for all newbies. Quick access to object detection for applications without AI knowledge. Ready for use with pretrained weights (the original Darknet weights from [YOLOv4 team](https://github.com/AlexeyAB/darknet)). Minimal code and easy to follow.
+
+Once you are comfortble with the code, you can either choose to extend the functionality, such as OCR(Optical Character Recognition), Object Tracking, Object Counting, Object Detection for Webcam, etc. Or you can choose to customize the configuration parameters, migrate to TensorFlow Lite for mobile devices. If you would like to fine-tune weights, or even transfer learning for other purpose, you may need to check out other resources.
+
 ## Prerequisites
 - Tensorflow 2.3.0rc0
 
@@ -9,6 +15,12 @@
 
 ```bash
 pip install -r requirements-gpu.txt
+
+```
+or
+
+```bash
+pip install -r requirements-cpu.txt
 
 ```
 
@@ -46,6 +58,11 @@ python detectimage.py --image ./data/kite.jpg --output result.png
 python detectvideo.py --video ./data/road.mp4 --output result.avi
 
 ```
+### TODO
+* [ ] Supply the demo for running in cloud (Colab)
+* [ ] Add results for illustration
+* [ ] Supply the code map
+
 
 ## References
 
