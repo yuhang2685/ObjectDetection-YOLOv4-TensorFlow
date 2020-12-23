@@ -28,6 +28,8 @@ result.png                           Example output image
 results.avi                          Example output video
 
 ```
+## Demo for running in cloud (Google Colab)
+[Pretrained-Simple-YOLOv4-TF.ipynb](https://drive.google.com/file/d/16ygyMRJwKeVDFI5IfEeH_e146gw1Ygad/view?usp=sharing) 
 
 ## Prerequisites
 - Tensorflow 2.3.0rc0
