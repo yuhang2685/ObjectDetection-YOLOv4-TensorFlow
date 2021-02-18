@@ -5,7 +5,7 @@
 ## Introduction
 
 We present a quickly accessible Object Detection module for all newbies without AI knowledge. 
-YOLOv4 is the state-of-the-art [Object Detection algorithm](https://arxiv.org/abs/2004.10934) applicable to mobile devices.
+[YOLOv4](https://arxiv.org/abs/2004.10934) is the state-of-the-art Object Detection algorithm applicable to mobile devices.
 Our Tensorflow implementation is ready for use with pretrained weights 
 (the original Darknet weights from [AlexeyAB](https://github.com/AlexeyAB/darknet)). 
 It has minimal code and easy to follow.
