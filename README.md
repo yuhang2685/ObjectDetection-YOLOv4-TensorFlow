@@ -4,9 +4,21 @@
 
 ## Introduction
 
-Quick access to object detection for applications without AI knowledge. YOLOv4 Tensorflow implementation for all newbies. Ready for use with pretrained weights (the original Darknet weights from [AlexeyAB](https://github.com/AlexeyAB/darknet)). Minimal code and easy to follow.
+Quick access to Object Detection module for applications without AI knowledge. 
+YOLOv4 Tensorflow implementation for all newbies. 
+Ready for use with pretrained weights 
+(the original Darknet weights from [AlexeyAB](https://github.com/AlexeyAB/darknet)). 
+Minimal code and easy to follow.
 
-Once you are comfortble with the code, you can either choose to extend the functionality, such as OCR (Optical Character Recognition), Object Tracking, Object Counting, Object Detection for Webcam, etc., check out [theAIGuysCode](https://github.com/theAIGuysCode) for inspirations. Or you can choose to customize the configuration parameters, migrate to TensorFlow Lite for mobile devices, fine-tune weights for your domain, or even transfer learning for other purpose, check out [hunglc007 / tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) for inspirations.
+Once you get comfortble with the module, 
+you can either choose to extend the functionality by combineing with other modules, 
+such as OCR (Optical Character Recognition), Object Tracking, Object Counting, Object Detection in Webcam, etc., 
+check out [theAIGuysCode](https://github.com/theAIGuysCode) for inspirations. 
+Or you can choose to customize the configuration parameters, 
+migrate to TensorFlow Lite for mobile devices, 
+fine-tune weights for your domain, 
+or even transfer learning for other purpose, 
+check out [hunglc007 / tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) for inspirations.
 
 ## Code map
 ```bash
