@@ -4,11 +4,11 @@
 
 ## Introduction
 
-Quick access to Object Detection module for applications without AI knowledge. 
-YOLOv4 Tensorflow implementation for all newbies. 
-Ready for use with pretrained weights 
+We present a quickly accessible Object Detection module for all newbies without AI knowledge. 
+YOLOv4 is the state-of-the-art [Object Detection algorithm](https://arxiv.org/abs/2004.10934) applicable to mobile devices.
+Our Tensorflow implementation is ready for use with pretrained weights 
 (the original Darknet weights from [AlexeyAB](https://github.com/AlexeyAB/darknet)). 
-Minimal code and easy to follow.
+It has minimal code and easy to follow.
 
 Once you get comfortble with the module, 
 you can either choose to extend the functionality by combineing with other modules, 
