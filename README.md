@@ -20,6 +20,10 @@ fine-tune weights for your domain,
 or even transfer learning for other purpose, 
 check out [hunglc007 / tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) for inspirations.
 
+## Performance
+
+<img src="YOLOv4-performance.png" width="65%">
+
 ## Code map
 ```bash
 
