@@ -4,6 +4,8 @@
 
 ## Introduction
 
+AI could be as easy as opening a file and one click of "run all"!
+
 We present a quickly accessible Object Detection module for all newbies without AI knowledge. 
 [YOLOv4](https://arxiv.org/abs/2004.10934) is the state-of-the-art Object Detection algorithm applicable to mobile devices.
 Our Tensorflow implementation is ready for use with pretrained weights 
@@ -46,7 +48,7 @@ results.avi                          Example output video
 ```
 ## Demo for running in cloud (Google Colab)
 
-### Note you have to download the file and open it with "Google Colab"
+### Note you have to download the file and open it with "Google Colab", and click "Runtime/Run all"
 [Object-Detection-With-YOLOv4-TF.ipynb](https://drive.google.com/file/d/1m5tK7C2K0YriWMSMm3T2LQDCHD2jKAJY/view?usp=sharing) 
 
 ## Prerequisites
