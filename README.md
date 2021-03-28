@@ -48,7 +48,7 @@ results.avi                          Example output video
 ```
 ## Demo for running in cloud (Google Colab)
 
-### Note you have to download the file and open it with "Google Colab", and click "Runtime/Run all"
+### Note you have to download the file and open it with Jupyter Notebook, and click "Runtime/Run all"
 [Object-Detection-With-YOLOv4-TF.ipynb](https://drive.google.com/file/d/1m5tK7C2K0YriWMSMm3T2LQDCHD2jKAJY/view?usp=sharing) 
 
 ## Prerequisites
